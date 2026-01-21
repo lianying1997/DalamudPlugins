@@ -20,8 +20,8 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/lianying1997/DalamudPlugins/main/plugins/HowMuchWeCanHeal/icon.png",
-    "DownloadLinkInstall": "https://github.com/lianying1997/DalamudPlugins/raw/main/plugins/HowMuchWeCanHeal/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/lianying1997/DalamudPlugins/raw/main/plugins/HowMuchWeCanHeal/latest.zip",
+    "DownloadLinkInstall": "https://github.com/lianying1997/DalamudPlugins/blob/main/plugins/HowMuchWeCanHeal/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lianying1997/DalamudPlugins/blob/main/plugins/HowMuchWeCanHeal/latest.zip",
     "Changelog": "Hello World"
   }
 ]
