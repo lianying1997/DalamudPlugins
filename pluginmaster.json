@@ -17,6 +17,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
+    "DownloadCount": 1,
     "IconUrl": "https://raw.githubusercontent.com/lianying1997/DalamudPlugins/main/plugins/HowMuchWeCanHeal/icon.png",
     "DownloadLinkInstall": "https://github.com/lianying1997/DalamudPlugins/raw/main/plugins/HowMuchWeCanHeal/latest.zip",
     "DownloadLinkUpdate": "https://github.com/lianying1997/DalamudPlugins/raw/main/plugins/HowMuchWeCanHeal/latest.zip",
