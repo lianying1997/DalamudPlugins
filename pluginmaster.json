@@ -1,25 +1,27 @@
-{
-  "Author": "Usami",
-  "Name": "HowMuchWeCanHeal",
-  "Punchline": "自动量化治疗技能数据",
-  "Description": "将治疗技能的恢复力、持续恢复力等数据结合自身属性量化为具体数值，数值为最低期望。支持100级白魔法师、学者、占星术士、贤者。",
-  "InternalName": "HowMuchWeCanHeal",
-  "ApplicableVersion": "any",
-  "EffectiveVersion": "1.0.0.0",
-  "EffectiveApiLevel": 14,
-  "AssemblyVersion": "1.0.0.0",
-  "Tags": [
-    "healer",
-    "tooltip",
-    "ui"
-  ],
-  "DalamudApiLevel": 14,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/lianying1997/DalamudPlugins/main/plugins/HowMuchWeCanHeal/icon.png",
-  "DownloadLinkInstall": "https://github.com/lianying1997/DalamudPlugins/raw/main/plugins/HowMuchWeCanHeal/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/lianying1997/DalamudPlugins/raw/main/plugins/HowMuchWeCanHeal/latest.zip",
-  "Changelog": "Hello World"
-}
+[
+  {
+    "Author": "Usami",
+    "Name": "HowMuchWeCanHeal",
+    "Punchline": "自动量化治疗技能数据",
+    "Description": "将治疗技能的恢复力、持续恢复力等数据结合自身属性量化为具体数值，数值为最低期望。支持100级白魔法师、学者、占星术士、贤者。",
+    "InternalName": "HowMuchWeCanHeal",
+    "ApplicableVersion": "any",
+    "EffectiveVersion": "1.0.0.0",
+    "EffectiveApiLevel": 14,
+    "AssemblyVersion": "1.0.0.0",
+    "Tags": [
+      "healer",
+      "tooltip",
+      "ui"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/lianying1997/DalamudPlugins/main/plugins/HowMuchWeCanHeal/icon.png",
+    "DownloadLinkInstall": "https://github.com/lianying1997/DalamudPlugins/raw/main/plugins/HowMuchWeCanHeal/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lianying1997/DalamudPlugins/raw/main/plugins/HowMuchWeCanHeal/latest.zip",
+    "Changelog": "Hello World"
+  }
+]
