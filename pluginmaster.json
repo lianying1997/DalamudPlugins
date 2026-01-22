@@ -2,11 +2,11 @@
   {
     "Author": "Usami, JiaXX",
     "Name": "HowMuchWeCanHeal",
-    "Punchline": "自动量化治疗技能数据",
-    "Description": "将治疗技能的恢复力、持续恢复力等数据结合自身属性量化为具体数值，数值为最低期望。支持100级白魔法师、学者、占星术士、贤者。",
+    "Punchline": "自动量化技能数据",
+    "Description": "将技能的威力、恢复力等数据结合自身属性量化为具体数值，数值为最低期望，实战可能出现偏差。支持100级防护与治疗职业。",
     "InternalName": "HowMuchWeCanHeal",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "Tags": [
       "healer",
       "tooltip",
@@ -21,6 +21,6 @@
     "IconUrl": "https://raw.githubusercontent.com/lianying1997/DalamudPlugins/main/plugins/HowMuchWeCanHeal/icon.png",
     "DownloadLinkInstall": "https://github.com/lianying1997/DalamudPlugins/raw/main/plugins/HowMuchWeCanHeal/latest.zip",
     "DownloadLinkUpdate": "https://github.com/lianying1997/DalamudPlugins/raw/main/plugins/HowMuchWeCanHeal/latest.zip",
-    "Changelog": "Hello World"
+    "Changelog": "增加对防护职业的支持。"
   }
 ]
