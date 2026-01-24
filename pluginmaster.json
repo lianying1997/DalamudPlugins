@@ -6,7 +6,7 @@
     "Description": "将技能的威力、恢复力等数据结合自身属性量化为具体数值，数值为最低期望，实战可能出现偏差。支持100级防护与治疗职业。",
     "InternalName": "HowMuchWeCanHeal",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "Tags": [
       "healer",
       "tooltip",
