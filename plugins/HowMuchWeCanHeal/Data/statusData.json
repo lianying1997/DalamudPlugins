@@ -1,6 +1,6 @@
 [
   {
-    "version": "7.4.0.2",
+    "version": "7.4.0.3",
     "data": [
       {
         "ID": 1,
@@ -9,7 +9,7 @@
         "BuffPercent": 50,
         "Type": "治疗魔法",
         "Group": "个人",
-        "Note": ""
+        "Note": "下一次治疗魔法 +50%"
       },
       {
         "ID": 2,
@@ -18,7 +18,7 @@
         "BuffPercent": 20,
         "Type": "治疗魔法",
         "Group": "个人",
-        "Note": ""
+        "Note": "治疗魔法 +20%"
       },
       {
         "ID": 3,
@@ -27,7 +27,7 @@
         "BuffPercent": 20,
         "Type": "治疗魔法",
         "Group": "个人",
-        "Note": ""
+        "Note": "治疗魔法 +20%"
       },
       {
         "ID": 4,
@@ -36,7 +36,7 @@
         "BuffPercent": 10,
         "Type": "恢复",
         "Group": "团队",
-        "Note": ""
+        "Note": "恢复量 +10%"
       },
       {
         "ID": 5,
@@ -45,7 +45,7 @@
         "BuffPercent": 10,
         "Type": "恢复",
         "Group": "团队",
-        "Note": ""
+        "Note": "恢复量 +10%"
       },
       {
         "ID": 6,
@@ -54,7 +54,7 @@
         "BuffPercent": 20,
         "Type": "治疗魔法",
         "Group": "个人",
-        "Note": ""
+        "Note": "治疗魔法 +20%"
       },
       {
         "ID": 7,
@@ -63,7 +63,7 @@
         "BuffPercent": 10,
         "Type": "治疗魔法",
         "Group": "团队",
-        "Note": ""
+        "Note": "治疗魔法 +10%"
       },
       {
         "ID": 8,
@@ -72,7 +72,7 @@
         "BuffPercent": 20,
         "Type": "恢复",
         "Group": "团队",
-        "Note": ""
+        "Note": "恢复量 +20%"
       },
       {
         "ID": 9,
@@ -81,7 +81,7 @@
         "BuffPercent": 20,
         "Type": "治疗魔法",
         "Group": "个人",
-        "Note": ""
+        "Note": "治疗魔法 +20%"
       },
       {
         "ID": 10,
@@ -90,7 +90,7 @@
         "BuffPercent": 10,
         "Type": "恢复",
         "Group": "团队",
-        "Note": ""
+        "Note": "恢复量 +10%"
       },
       {
         "ID": 11,
@@ -99,7 +99,7 @@
         "BuffPercent": 20,
         "Type": "恢复",
         "Group": "团队",
-        "Note": ""
+        "Note": "恢复量 +20%"
       },
       {
         "ID": 12,
@@ -108,7 +108,7 @@
         "BuffPercent": 15,
         "Type": "恢复",
         "Group": "团队",
-        "Note": ""
+        "Note": "恢复量 +15%"
       },
       {
         "ID": 13,
@@ -117,7 +117,7 @@
         "BuffPercent": 10,
         "Type": "恢复",
         "Group": "团队",
-        "Note": ""
+        "Note": "恢复量 +10%"
       },
       {
         "ID": 14,
@@ -126,7 +126,7 @@
         "BuffPercent": 15,
         "Type": "恢复",
         "Group": "团队",
-        "Note": ""
+        "Note": "恢复量 +15%"
       },
       {
         "ID": 15,
@@ -135,7 +135,7 @@
         "BuffPercent": 5,
         "Type": "恢复",
         "Group": "团队",
-        "Note": ""
+        "Note": "恢复量 +5%"
       },
       {
         "ID": 16,
@@ -144,7 +144,7 @@
         "BuffPercent": 5,
         "Type": "攻击",
         "Group": "团队",
-        "Note": ""
+        "Note": "伤害值 +5%"
       },
       {
         "ID": 17,
@@ -153,7 +153,7 @@
         "BuffPercent": 15,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +15%"
       },
       {
         "ID": 18,
@@ -162,7 +162,7 @@
         "BuffPercent": 10,
         "Type": "暴击",
         "Group": "团队",
-        "Note": ""
+        "Note": "暴击率 +10%"
       },
       {
         "ID": 19,
@@ -171,7 +171,7 @@
         "BuffPercent": 10,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +10%"
       },
       {
         "ID": 20,
@@ -180,7 +180,7 @@
         "BuffPercent": 15,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +15%"
       },
       {
         "ID": 21,
@@ -189,7 +189,7 @@
         "BuffPercent": 30,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "下一次忍术伤害值 +30%"
       },
       {
         "ID": 22,
@@ -198,7 +198,7 @@
         "BuffPercent": 10,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +10%"
       },
       {
         "ID": 23,
@@ -207,7 +207,7 @@
         "BuffPercent": 5,
         "Type": "攻击",
         "Group": "团队",
-        "Note": ""
+        "Note": "伤害值 +5%"
       },
       {
         "ID": 24,
@@ -216,7 +216,7 @@
         "BuffPercent": 13,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +13%"
       },
       {
         "ID": 25,
@@ -234,7 +234,7 @@
         "BuffPercent": 10,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +10%"
       },
       {
         "ID": 27,
@@ -243,7 +243,7 @@
         "BuffPercent": 3,
         "Type": "攻击",
         "Group": "团队",
-        "Note": ""
+        "Note": "伤害值 +3%"
       },
       {
         "ID": 28,
@@ -252,7 +252,7 @@
         "BuffPercent": 10,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +10%"
       },
       {
         "ID": 29,
@@ -261,7 +261,7 @@
         "BuffPercent": 2,
         "Type": "暴击",
         "Group": "团队",
-        "Note": ""
+        "Note": "暴击率 +2%"
       },
       {
         "ID": 30,
@@ -270,7 +270,7 @@
         "BuffPercent": 1,
         "Type": "攻击",
         "Group": "团队",
-        "Note": ""
+        "Note": "伤害值 +1%"
       },
       {
         "ID": 31,
@@ -279,7 +279,7 @@
         "BuffPercent": 3,
         "Type": "直击",
         "Group": "团队",
-        "Note": ""
+        "Note": "直击率 +3%"
       },
       {
         "ID": 32,
@@ -288,7 +288,7 @@
         "BuffPercent": 15,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +15%"
       },
       {
         "ID": 33,
@@ -297,7 +297,7 @@
         "BuffPercent": 20,
         "Type": "直击",
         "Group": "团队",
-        "Note": ""
+        "Note": "直击率 +20%"
       },
       {
         "ID": 34,
@@ -306,7 +306,7 @@
         "BuffPercent": 6,
         "Type": "攻击",
         "Group": "团队",
-        "Note": ""
+        "Note": "伤害值 +6%"
       },
       {
         "ID": 35,
@@ -315,7 +315,7 @@
         "BuffPercent": 5,
         "Type": "攻击",
         "Group": "团队",
-        "Note": ""
+        "Note": "伤害值 +5%"
       },
       {
         "ID": 36,
@@ -324,7 +324,7 @@
         "BuffPercent": 5,
         "Type": "攻击",
         "Group": "团队",
-        "Note": ""
+        "Note": "伤害值 +5%"
       },
       {
         "ID": 37,
@@ -333,7 +333,7 @@
         "BuffPercent": 20,
         "Type": "暴击直击",
         "Group": "团队",
-        "Note": ""
+        "Note": "暴击直击率 +20%"
       },
       {
         "ID": 38,
@@ -342,7 +342,7 @@
         "BuffPercent": 27,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +27%"
       },
       {
         "ID": 39,
@@ -351,7 +351,7 @@
         "BuffPercent": 80,
         "Type": "星极火",
         "Group": "个人",
-        "Note": "冰-30"
+        "Note": "火魔法伤害值 +80%，冰魔法伤害值 -30%"
       },
       {
         "ID": 40,
@@ -360,7 +360,7 @@
         "BuffPercent": 5,
         "Type": "攻击",
         "Group": "团队",
-        "Note": ""
+        "Note": "伤害值 +5%"
       },
       {
         "ID": 41,
@@ -369,7 +369,7 @@
         "BuffPercent": 10,
         "Type": "攻击",
         "Group": "个人",
-        "Note": "魔法攻击"
+        "Note": "魔法伤害值 +10%"
       },
       {
         "ID": 42,
@@ -378,7 +378,7 @@
         "BuffPercent": 5,
         "Type": "攻击",
         "Group": "团队",
-        "Note": ""
+        "Note": "伤害值 +5%"
       },
       {
         "ID": 43,
@@ -387,7 +387,7 @@
         "BuffPercent": 5,
         "Type": "攻击",
         "Group": "团队",
-        "Note": ""
+        "Note": "伤害值 +5%"
       },
       {
         "ID": 44,
@@ -396,7 +396,7 @@
         "BuffPercent": 10,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +10%"
       },
       {
         "ID": 45,
@@ -405,7 +405,7 @@
         "BuffPercent": 25,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +25%"
       },
       {
         "ID": 46,
@@ -414,7 +414,7 @@
         "BuffPercent": 20,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +20%"
       },
       {
         "ID": 47,
@@ -423,7 +423,7 @@
         "BuffPercent": 10,
         "Type": "攻击",
         "Group": "个人",
-        "Note": ""
+        "Note": "伤害值 +10%"
       }
     ]
   }
