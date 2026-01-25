@@ -1,0 +1,430 @@
+[
+  {
+    "version": "7.4.0.2",
+    "data": [
+      {
+        "ID": 1,
+        "StatusName": "活化",
+        "Category": "贤者",
+        "BuffPercent": 50,
+        "Type": "治疗魔法",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 2,
+        "StatusName": "节制",
+        "Category": "白魔法师",
+        "BuffPercent": 20,
+        "Type": "治疗魔法",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 3,
+        "StatusName": "中间学派",
+        "Category": "占星术士",
+        "BuffPercent": 20,
+        "Type": "治疗魔法",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 4,
+        "StatusName": "放浪神之箭",
+        "Category": "占星术士",
+        "BuffPercent": 10,
+        "Type": "恢复",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 5,
+        "StatusName": "庇护所",
+        "Category": "白魔法师",
+        "BuffPercent": 10,
+        "Type": "恢复",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 6,
+        "StatusName": "转化",
+        "Category": "学者",
+        "BuffPercent": 20,
+        "Type": "治疗魔法",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 7,
+        "StatusName": "异想的幻光",
+        "Category": "学者",
+        "BuffPercent": 10,
+        "Type": "治疗魔法",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 8,
+        "StatusName": "混合",
+        "Category": "贤者",
+        "BuffPercent": 20,
+        "Type": "恢复",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 9,
+        "StatusName": "智慧之爱",
+        "Category": "贤者",
+        "BuffPercent": 20,
+        "Type": "治疗魔法",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 10,
+        "StatusName": "催进",
+        "Category": "贤者",
+        "BuffPercent": 10,
+        "Type": "恢复",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 11,
+        "StatusName": "战栗",
+        "Category": "战士",
+        "BuffPercent": 20,
+        "Type": "恢复",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 12,
+        "StatusName": "铁壁",
+        "Category": "防护职业",
+        "BuffPercent": 15,
+        "Type": "恢复",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 13,
+        "StatusName": "真言",
+        "Category": "武僧",
+        "BuffPercent": 10,
+        "Type": "恢复",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 14,
+        "StatusName": "大地神的抒情恋歌",
+        "Category": "吟游诗人",
+        "BuffPercent": 15,
+        "Type": "恢复",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 15,
+        "StatusName": "抗死",
+        "Category": "赤魔法师",
+        "BuffPercent": 5,
+        "Type": "恢复",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 16,
+        "StatusName": "义结金兰",
+        "Category": "武僧",
+        "BuffPercent": 5,
+        "Type": "攻击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 17,
+        "StatusName": "红莲极意",
+        "Category": "武僧",
+        "BuffPercent": 15,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 18,
+        "StatusName": "战斗连祷",
+        "Category": "龙骑士",
+        "BuffPercent": 10,
+        "Type": "暴击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 19,
+        "StatusName": "猛枪",
+        "Category": "龙骑士",
+        "BuffPercent": 10,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 20,
+        "StatusName": "红莲龙血",
+        "Category": "龙骑士",
+        "BuffPercent": 15,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 21,
+        "StatusName": "生杀予夺",
+        "Category": "忍者",
+        "BuffPercent": 30,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 22,
+        "StatusName": "背刺（个人）",
+        "Category": "忍者",
+        "BuffPercent": 10,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 23,
+        "StatusName": "背刺（团队）",
+        "Category": "忍者",
+        "BuffPercent": 5,
+        "Type": "攻击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 24,
+        "StatusName": "风月",
+        "Category": "武士",
+        "BuffPercent": 13,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 25,
+        "StatusName": "回天",
+        "Category": "武士",
+        "BuffPercent": 0,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": "一雪一月一居合，一花一闪一回天。"
+      },
+      {
+        "ID": 26,
+        "StatusName": "死亡之影",
+        "Category": "钐镰客",
+        "BuffPercent": 10,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 27,
+        "StatusName": "神秘环",
+        "Category": "钐镰客",
+        "BuffPercent": 3,
+        "Type": "攻击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 28,
+        "StatusName": "猛袭",
+        "Category": "蝰蛇剑士",
+        "BuffPercent": 10,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 29,
+        "StatusName": "放浪神的小步舞曲",
+        "Category": "吟游诗人",
+        "BuffPercent": 2,
+        "Type": "暴击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 30,
+        "StatusName": "贤者的叙事谣",
+        "Category": "吟游诗人",
+        "BuffPercent": 1,
+        "Type": "攻击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 31,
+        "StatusName": "军神的赞美歌",
+        "Category": "吟游诗人",
+        "BuffPercent": 3,
+        "Type": "直击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 32,
+        "StatusName": "猛者强击",
+        "Category": "吟游诗人",
+        "BuffPercent": 15,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 33,
+        "StatusName": "战斗之声",
+        "Category": "吟游诗人",
+        "BuffPercent": 20,
+        "Type": "直击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 34,
+        "StatusName": "光明神的最终乐章",
+        "Category": "吟游诗人",
+        "BuffPercent": 6,
+        "Type": "攻击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 35,
+        "StatusName": "标准舞步结束",
+        "Category": "舞者",
+        "BuffPercent": 5,
+        "Type": "攻击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 36,
+        "StatusName": "技巧舞步结束",
+        "Category": "舞者",
+        "BuffPercent": 5,
+        "Type": "攻击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 37,
+        "StatusName": "进攻之探戈",
+        "Category": "舞者",
+        "BuffPercent": 20,
+        "Type": "暴击直击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 38,
+        "StatusName": "天语",
+        "Category": "黑魔法师",
+        "BuffPercent": 27,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 39,
+        "StatusName": "星极火",
+        "Category": "黑魔法师",
+        "BuffPercent": 80,
+        "Type": "星极火",
+        "Group": "个人",
+        "Note": "冰-30"
+      },
+      {
+        "ID": 40,
+        "StatusName": "灼热之光",
+        "Category": "召唤师",
+        "BuffPercent": 5,
+        "Type": "攻击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 41,
+        "StatusName": "鼓励（个人）",
+        "Category": "赤魔法师",
+        "BuffPercent": 10,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": "魔法攻击"
+      },
+      {
+        "ID": 42,
+        "StatusName": "鼓励（团队）",
+        "Category": "赤魔法师",
+        "BuffPercent": 5,
+        "Type": "攻击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 43,
+        "StatusName": "星空构想",
+        "Category": "绘灵法师",
+        "BuffPercent": 5,
+        "Type": "攻击",
+        "Group": "团队",
+        "Note": ""
+      },
+      {
+        "ID": 44,
+        "StatusName": "战场风暴",
+        "Category": "战士",
+        "BuffPercent": 10,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 45,
+        "StatusName": "战逃反应",
+        "Category": "骑士",
+        "BuffPercent": 25,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 46,
+        "StatusName": "无情",
+        "Category": "绝枪战士",
+        "BuffPercent": 20,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      },
+      {
+        "ID": 47,
+        "StatusName": "暗黑",
+        "Category": "暗黑骑士",
+        "BuffPercent": 10,
+        "Type": "攻击",
+        "Group": "个人",
+        "Note": ""
+      }
+    ]
+  }
+]
