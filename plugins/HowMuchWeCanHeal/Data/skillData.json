@@ -1,6 +1,6 @@
 [
   {
-    "version": "7.4.0.5",
+    "version": "7.4.0.6",
     "data": [
       {
         "ID": 1,
@@ -1330,23 +1330,6 @@
       },
       {
         "ID": 79,
-        "SkillName": "绝对统治",
-        "Category": "骑士",
-        "ActionID": 36921,
-        "Level": 100,
-        "DamageVal": "0",
-        "HealingVal": "580",
-        "ContVal": "0",
-        "Times": 0,
-        "ShieldVal": "0",
-        "MitPercent": "580",
-        "MitType": "0",
-        "HealBuffPercent": "60",
-        "Duration": "0",
-        "SkillType": 0
-      },
-      {
-        "ID": 80,
         "SkillName": "天宫图",
         "Category": "占星术士",
         "ActionID": 16558,
@@ -1363,7 +1346,7 @@
         "SkillType": 0
       },
       {
-        "ID": 81,
+        "ID": 80,
         "SkillName": "暗影卫",
         "Category": "暗黑骑士",
         "ActionID": 36927,
@@ -1380,7 +1363,7 @@
         "SkillType": 0
       },
       {
-        "ID": 82,
+        "ID": 81,
         "SkillName": "至黑之夜",
         "Category": "暗黑骑士",
         "ActionID": 7393,
@@ -1397,7 +1380,7 @@
         "SkillType": 0
       },
       {
-        "ID": 83,
+        "ID": 82,
         "SkillName": "伪装",
         "Category": "绝枪战士",
         "ActionID": 16140,
@@ -1414,7 +1397,7 @@
         "SkillType": 0
       },
       {
-        "ID": 84,
+        "ID": 83,
         "SkillName": "极光",
         "Category": "绝枪战士",
         "ActionID": 16151,
@@ -1431,7 +1414,7 @@
         "SkillType": 0
       },
       {
-        "ID": 85,
+        "ID": 84,
         "SkillName": "刚玉之心",
         "Category": "绝枪战士",
         "ActionID": 25758,
@@ -1448,7 +1431,7 @@
         "SkillType": 0
       },
       {
-        "ID": 86,
+        "ID": 85,
         "SkillName": "大星云",
         "Category": "绝枪战士",
         "ActionID": 36935,
@@ -1465,7 +1448,7 @@
         "SkillType": 0
       },
       {
-        "ID": 87,
+        "ID": 86,
         "SkillName": "泰然自若",
         "Category": "战士",
         "ActionID": 3552,
@@ -1482,7 +1465,7 @@
         "SkillType": 0
       },
       {
-        "ID": 88,
+        "ID": 87,
         "SkillName": "摆脱",
         "Category": "战士",
         "ActionID": 7388,
@@ -1499,7 +1482,7 @@
         "SkillType": 0
       },
       {
-        "ID": 89,
+        "ID": 88,
         "SkillName": "原初的血气",
         "Category": "战士",
         "ActionID": 25751,
@@ -1516,7 +1499,7 @@
         "SkillType": 0
       },
       {
-        "ID": 90,
+        "ID": 89,
         "SkillName": "原初的勇猛",
         "Category": "战士",
         "ActionID": 16464,
@@ -1533,7 +1516,7 @@
         "SkillType": 0
       },
       {
-        "ID": 91,
+        "ID": 90,
         "SkillName": "戮罪",
         "Category": "战士",
         "ActionID": 36923,
