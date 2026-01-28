@@ -1,21 +1,9 @@
 [
   {
-    "version": "7.4.0.3",
+    "version": "7.4.0.5",
     "data": [
       {
-        "ID": 85,
-        "SkillName": "盾牌猛击",
-        "Category": "骑士",
-        "ActionID": 16,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "6/3/1/0 秒",
-        "ColorType": "duration",
-        "Description": "眩晕时间",
-        "Order": 0
-      },
-      {
-        "ID": 86,
+        "ID": 61,
         "SkillName": "壁垒",
         "Category": "骑士",
         "ActionID": 22,
@@ -27,7 +15,7 @@
         "Order": 0
       },
       {
-        "ID": 87,
+        "ID": 62,
         "SkillName": "壁垒",
         "Category": "骑士",
         "ActionID": 22,
@@ -39,31 +27,7 @@
         "Order": 1
       },
       {
-        "ID": 163,
-        "SkillName": "暴风斩",
-        "Category": "战士",
-        "ActionID": 42,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "250",
-        "ColorType": "healing",
-        "Description": "治疗量",
-        "Order": 0
-      },
-      {
-        "ID": 76,
-        "SkillName": "能量吸收",
-        "Category": "学者",
-        "ActionID": 167,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "37.8",
-        "ColorType": "healing",
-        "Description": "对自身恢复力",
-        "Order": 0
-      },
-      {
-        "ID": 2,
+        "ID": 1,
         "SkillName": "鼓舞激励之策",
         "Category": "学者",
         "ActionID": 185,
@@ -75,7 +39,7 @@
         "Order": 0
       },
       {
-        "ID": 3,
+        "ID": 2,
         "SkillName": "鼓舞激励之策",
         "Category": "学者",
         "ActionID": 185,
@@ -87,7 +51,7 @@
         "Order": 1
       },
       {
-        "ID": 4,
+        "ID": 3,
         "SkillName": "鼓舞激励之策",
         "Category": "学者",
         "ActionID": 185,
@@ -111,7 +75,7 @@
         "Order": 0
       },
       {
-        "ID": 88,
+        "ID": 63,
         "SkillName": "圣光幕帘",
         "Category": "骑士",
         "ActionID": 3540,
@@ -123,55 +87,7 @@
         "Order": 0
       },
       {
-        "ID": 89,
-        "SkillName": "深仁厚泽",
-        "Category": "骑士",
-        "ActionID": 3541,
-        "Level": 100,
-        "TemplateType": "heal_crit_calc",
-        "Value": "1000",
-        "ColorType": "healing",
-        "Description": "暴击治疗量",
-        "Order": 0
-      },
-      {
-        "ID": 90,
-        "SkillName": "深仁厚泽",
-        "Category": "骑士",
-        "ActionID": 3541,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "500",
-        "ColorType": "healing",
-        "Description": "以队友为目标时，对自身治疗量",
-        "Order": 1
-      },
-      {
-        "ID": 164,
-        "SkillName": "地毁人亡",
-        "Category": "战士",
-        "ActionID": 3550,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于4时，威力大于“裂石飞环”。",
-        "Order": 0
-      },
-      {
-        "ID": 166,
-        "SkillName": "泰然自若",
-        "Category": "战士",
-        "ActionID": 3552,
-        "Level": 100,
-        "TemplateType": "heal_crit_calc",
-        "Value": "1200",
-        "ColorType": "healing",
-        "Description": "暴击治疗量",
-        "Order": 0
-      },
-      {
-        "ID": 5,
+        "ID": 4,
         "SkillName": "庇护所",
         "Category": "白魔法师",
         "ActionID": 3569,
@@ -183,19 +99,7 @@
         "Order": 0
       },
       {
-        "ID": 1,
-        "SkillName": "法令",
-        "Category": "白魔法师",
-        "ActionID": 3571,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "400",
-        "ColorType": "damage",
-        "Description": "伤害值",
-        "Order": 0
-      },
-      {
-        "ID": 12,
+        "ID": 11,
         "SkillName": "不屈不挠之策",
         "Category": "学者",
         "ActionID": 3583,
@@ -207,7 +111,7 @@
         "Order": 0
       },
       {
-        "ID": 13,
+        "ID": 12,
         "SkillName": "转化",
         "Category": "学者",
         "ActionID": 3587,
@@ -219,7 +123,7 @@
         "Order": 0
       },
       {
-        "ID": 14,
+        "ID": 13,
         "SkillName": "转化",
         "Category": "学者",
         "ActionID": 3587,
@@ -231,7 +135,19 @@
         "Order": 1
       },
       {
-        "ID": 41,
+        "ID": 14,
+        "SkillName": "转化",
+        "Category": "学者",
+        "ActionID": 3587,
+        "Level": 100,
+        "TemplateType": "text",
+        "Value": "0",
+        "ColorType": "hint",
+        "Description": "在“炽天附体”状态下使用转化，会使“炽天附体”立即结束。",
+        "Order": 2
+      },
+      {
+        "ID": 36,
         "SkillName": "吉星相位",
         "Category": "占星术士",
         "ActionID": 3595,
@@ -243,7 +159,7 @@
         "Order": 2
       },
       {
-        "ID": 42,
+        "ID": 37,
         "SkillName": "吉星相位",
         "Category": "占星术士",
         "ActionID": 3595,
@@ -291,139 +207,7 @@
         "Order": 0
       },
       {
-        "ID": 106,
-        "SkillName": "吸收斩",
-        "Category": "暗黑骑士",
-        "ActionID": 3623,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "600",
-        "ColorType": "healing",
-        "Description": "魔法值回复",
-        "Order": 0
-      },
-      {
-        "ID": 107,
-        "SkillName": "噬魂斩",
-        "Category": "暗黑骑士",
-        "ActionID": 3632,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "20",
-        "ColorType": "buff",
-        "Description": "暗血增加",
-        "Order": 0
-      },
-      {
-        "ID": 137,
-        "SkillName": "噬魂斩",
-        "Category": "暗黑骑士",
-        "ActionID": 3632,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "300",
-        "ColorType": "healing",
-        "Description": "治疗量",
-        "Order": 1
-      },
-      {
-        "ID": 110,
-        "SkillName": "弃明投暗",
-        "Category": "暗黑骑士",
-        "ActionID": 3634,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "10% 物理",
-        "ColorType": "shield",
-        "Description": "减伤",
-        "Order": 0
-      },
-      {
-        "ID": 112,
-        "SkillName": "吸血深渊",
-        "Category": "暗黑骑士",
-        "ActionID": 3641,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "500",
-        "ColorType": "healing",
-        "Description": "治疗量",
-        "Order": 0
-      },
-      {
-        "ID": 113,
-        "SkillName": "吸血深渊",
-        "Category": "暗黑骑士",
-        "ActionID": 3641,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "600",
-        "ColorType": "healing",
-        "Description": "魔法值回复",
-        "Order": 1
-      },
-      {
-        "ID": 133,
-        "SkillName": "吸血深渊",
-        "Category": "暗黑骑士",
-        "ActionID": 3641,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "与“精雕怒斩”冲突。",
-        "Order": 2
-      },
-      {
-        "ID": 134,
-        "SkillName": "吸血深渊",
-        "Category": "暗黑骑士",
-        "ActionID": 3641,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于3时，威力大于“精雕怒斩”。",
-        "Order": 3
-      },
-      {
-        "ID": 114,
-        "SkillName": "精雕怒斩",
-        "Category": "暗黑骑士",
-        "ActionID": 3643,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "500",
-        "ColorType": "healing",
-        "Description": "治疗量",
-        "Order": 0
-      },
-      {
-        "ID": 115,
-        "SkillName": "精雕怒斩",
-        "Category": "暗黑骑士",
-        "ActionID": 3643,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "600",
-        "ColorType": "healing",
-        "Description": "魔法值回复",
-        "Order": 1
-      },
-      {
-        "ID": 135,
-        "SkillName": "精雕怒斩",
-        "Category": "暗黑骑士",
-        "ActionID": 3643,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "与“吸血深渊”冲突。",
-        "Order": 2
-      },
-      {
-        "ID": 102,
+        "ID": 66,
         "SkillName": "干预",
         "Category": "骑士",
         "ActionID": 7382,
@@ -435,7 +219,7 @@
         "Order": 0
       },
       {
-        "ID": 103,
+        "ID": 67,
         "SkillName": "干预",
         "Category": "骑士",
         "ActionID": 7382,
@@ -447,7 +231,7 @@
         "Order": 1
       },
       {
-        "ID": 104,
+        "ID": 68,
         "SkillName": "干预",
         "Category": "骑士",
         "ActionID": 7382,
@@ -459,7 +243,7 @@
         "Order": 2
       },
       {
-        "ID": 105,
+        "ID": 69,
         "SkillName": "干预",
         "Category": "骑士",
         "ActionID": 7382,
@@ -471,55 +255,7 @@
         "Order": 3
       },
       {
-        "ID": 91,
-        "SkillName": "圣灵",
-        "Category": "骑士",
-        "ActionID": 7384,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "上述为适用“神圣魔法效果提高”伤害值。",
-        "Order": 0
-      },
-      {
-        "ID": 92,
-        "SkillName": "圣灵",
-        "Category": "骑士",
-        "ActionID": 7384,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "400",
-        "ColorType": "damage",
-        "Description": "无“神圣魔法效果提高”伤害值",
-        "Order": 1
-      },
-      {
-        "ID": 93,
-        "SkillName": "圣灵",
-        "Category": "骑士",
-        "ActionID": 7384,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "700",
-        "ColorType": "damage",
-        "Description": "“安魂祈祷”状态中伤害值",
-        "Order": 2
-      },
-      {
-        "ID": 94,
-        "SkillName": "圣灵",
-        "Category": "骑士",
-        "ActionID": 7384,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "400",
-        "ColorType": "healing",
-        "Description": "治疗量",
-        "Order": 3
-      },
-      {
-        "ID": 167,
+        "ID": 82,
         "SkillName": "摆脱",
         "Category": "战士",
         "ActionID": 7388,
@@ -531,7 +267,7 @@
         "Order": 0
       },
       {
-        "ID": 168,
+        "ID": 83,
         "SkillName": "摆脱",
         "Category": "战士",
         "ActionID": 7388,
@@ -543,7 +279,7 @@
         "Order": 1
       },
       {
-        "ID": 169,
+        "ID": 84,
         "SkillName": "摆脱",
         "Category": "战士",
         "ActionID": 7388,
@@ -555,7 +291,7 @@
         "Order": 2
       },
       {
-        "ID": 170,
+        "ID": 85,
         "SkillName": "摆脱",
         "Category": "战士",
         "ActionID": 7388,
@@ -567,151 +303,7 @@
         "Order": 3
       },
       {
-        "ID": 182,
-        "SkillName": "原初的解放",
-        "Category": "战士",
-        "ActionID": 7389,
-        "Level": 100,
-        "TemplateType": "damage_crit_calc",
-        "Value": "1740",
-        "ColorType": "damage",
-        "Description": "裂石飞环三连暴击伤害值",
-        "Order": 0
-      },
-      {
-        "ID": 183,
-        "SkillName": "原初的解放",
-        "Category": "战士",
-        "ActionID": 7389,
-        "Level": 100,
-        "TemplateType": "damage_direct_crit_calc",
-        "Value": "1740",
-        "ColorType": "damage_glow",
-        "Description": "裂石飞环三连直暴伤害值",
-        "Order": 1
-      },
-      {
-        "ID": 184,
-        "SkillName": "原初的解放",
-        "Category": "战士",
-        "ActionID": 7389,
-        "Level": 100,
-        "TemplateType": "damage_crit_calc",
-        "Value": "1480",
-        "ColorType": "damage",
-        "Description": "蛮荒崩裂二连暴击伤害值",
-        "Order": 2
-      },
-      {
-        "ID": 186,
-        "SkillName": "原初的解放",
-        "Category": "战士",
-        "ActionID": 7389,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "除特定攻击外，无法被控制与移位。",
-        "Order": 2
-      },
-      {
-        "ID": 185,
-        "SkillName": "原初的解放",
-        "Category": "战士",
-        "ActionID": 7389,
-        "Level": 100,
-        "TemplateType": "damage_direct_crit_calc",
-        "Value": "1480",
-        "ColorType": "damage_glow",
-        "Description": "蛮荒崩裂二连直暴伤害值",
-        "Order": 3
-      },
-      {
-        "ID": 117,
-        "SkillName": "血乱",
-        "Category": "暗黑骑士",
-        "ActionID": 7390,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "释放该技能后的3次战技，可额外回复600魔法值。",
-        "Order": 0
-      },
-      {
-        "ID": 118,
-        "SkillName": "血乱",
-        "Category": "暗黑骑士",
-        "ActionID": 7390,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "2160",
-        "ColorType": "damage",
-        "Description": "血红乱三连合计伤害值",
-        "Order": 1
-      },
-      {
-        "ID": 119,
-        "SkillName": "血乱",
-        "Category": "暗黑骑士",
-        "ActionID": 7390,
-        "Level": 100,
-        "TemplateType": "damage_crit_calc",
-        "Value": "2160",
-        "ColorType": "damage",
-        "Description": "血红乱三连暴击合计伤害值",
-        "Order": 2
-      },
-      {
-        "ID": 120,
-        "SkillName": "血乱",
-        "Category": "暗黑骑士",
-        "ActionID": 7390,
-        "Level": 100,
-        "TemplateType": "damage_direct_crit_calc",
-        "Value": "2160",
-        "ColorType": "damage_glow",
-        "Description": "血红乱三连直暴合计伤害值",
-        "Order": 3
-      },
-      {
-        "ID": 121,
-        "SkillName": "血乱",
-        "Category": "暗黑骑士",
-        "ActionID": 7390,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "1800",
-        "ColorType": "healing",
-        "Description": "魔法值额外共回复",
-        "Order": 4
-      },
-      {
-        "ID": 122,
-        "SkillName": "血乱",
-        "Category": "暗黑骑士",
-        "ActionID": 7390,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "2400",
-        "ColorType": "healing",
-        "Description": "应用于“血红乱/刺穿”三连魔法值共回复",
-        "Order": 5
-      },
-      {
-        "ID": 111,
-        "SkillName": "寂灭",
-        "Category": "暗黑骑士",
-        "ActionID": 7391,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于3时，威力大于“血溅”。",
-        "Order": 0
-      },
-      {
-        "ID": 136,
+        "ID": 72,
         "SkillName": "至黑之夜",
         "Category": "暗黑骑士",
         "ActionID": 7393,
@@ -723,7 +315,7 @@
         "Order": 0
       },
       {
-        "ID": 6,
+        "ID": 5,
         "SkillName": "全大赦",
         "Category": "白魔法师",
         "ActionID": 7433,
@@ -740,42 +332,6 @@
         "Category": "占星术士",
         "ActionID": 7439,
         "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "310",
-        "ColorType": "damage",
-        "Description": "巨星主宰伤害值",
-        "Order": 0
-      },
-      {
-        "ID": 25,
-        "SkillName": "地星",
-        "Category": "占星术士",
-        "ActionID": 7439,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "540",
-        "ColorType": "healing",
-        "Description": "小地星治疗量",
-        "Order": 1
-      },
-      {
-        "ID": 26,
-        "SkillName": "地星",
-        "Category": "占星术士",
-        "ActionID": 7439,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "205",
-        "ColorType": "damage",
-        "Description": "小地星伤害值",
-        "Order": 2
-      },
-      {
-        "ID": 27,
-        "SkillName": "地星",
-        "Category": "占星术士",
-        "ActionID": 7439,
-        "Level": 100,
         "TemplateType": "text",
         "Value": "0",
         "ColorType": "hint",
@@ -783,31 +339,7 @@
         "Order": 3
       },
       {
-        "ID": 138,
-        "SkillName": "残暴弹",
-        "Category": "绝枪战士",
-        "ActionID": 16139,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "200",
-        "ColorType": "healing",
-        "Description": "治疗量",
-        "Order": 0
-      },
-      {
-        "ID": 139,
-        "SkillName": "残暴弹",
-        "Category": "绝枪战士",
-        "ActionID": 16139,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "200",
-        "ColorType": "shield",
-        "Description": "盾值",
-        "Order": 1
-      },
-      {
-        "ID": 150,
+        "ID": 73,
         "SkillName": "伪装",
         "Category": "绝枪战士",
         "ActionID": 16140,
@@ -819,7 +351,7 @@
         "Order": 0
       },
       {
-        "ID": 151,
+        "ID": 74,
         "SkillName": "伪装",
         "Category": "绝枪战士",
         "ActionID": 16140,
@@ -831,7 +363,7 @@
         "Order": 1
       },
       {
-        "ID": 152,
+        "ID": 75,
         "SkillName": "伪装",
         "Category": "绝枪战士",
         "ActionID": 16140,
@@ -843,211 +375,7 @@
         "Order": 2
       },
       {
-        "ID": 141,
-        "SkillName": "烈牙",
-        "Category": "绝枪战士",
-        "ActionID": 16146,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "660",
-        "ColorType": "damage",
-        "Description": "与续剑合计伤害值",
-        "Order": 0
-      },
-      {
-        "ID": 142,
-        "SkillName": "烈牙",
-        "Category": "绝枪战士",
-        "ActionID": 16146,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "2280",
-        "ColorType": "damage",
-        "Description": "子弹连三连合计伤害值",
-        "Order": 2
-      },
-      {
-        "ID": 143,
-        "SkillName": "猛兽爪",
-        "Category": "绝枪战士",
-        "ActionID": 16147,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "760",
-        "ColorType": "damage",
-        "Description": "与续剑合计伤害值",
-        "Order": 0
-      },
-      {
-        "ID": 144,
-        "SkillName": "凶禽爪",
-        "Category": "绝枪战士",
-        "ActionID": 16150,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "860",
-        "ColorType": "damage",
-        "Description": "与续剑合计伤害值",
-        "Order": 0
-      },
-      {
-        "ID": 153,
-        "SkillName": "光之心",
-        "Category": "绝枪战士",
-        "ActionID": 16160,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "5% 物理",
-        "ColorType": "shield",
-        "Description": "减伤",
-        "Order": 0
-      },
-      {
-        "ID": 140,
-        "SkillName": "爆发击",
-        "Category": "绝枪战士",
-        "ActionID": 16162,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "600",
-        "ColorType": "damage",
-        "Description": "与续剑合计伤害值",
-        "Order": 0
-      },
-      {
-        "ID": 145,
-        "SkillName": "命运之环",
-        "Category": "绝枪战士",
-        "ActionID": 16163,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "420",
-        "ColorType": "damage",
-        "Description": "与续剑合计伤害值",
-        "Order": 0
-      },
-      {
-        "ID": 146,
-        "SkillName": "命运之环",
-        "Category": "绝枪战士",
-        "ActionID": 16163,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于2时，威力大于“爆发击”。",
-        "Order": 1
-      },
-      {
-        "ID": 147,
-        "SkillName": "血壤",
-        "Category": "绝枪战士",
-        "ActionID": 16164,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "2700",
-        "ColorType": "damage",
-        "Description": "狮心连三连合计伤害值",
-        "Order": 0
-      },
-      {
-        "ID": 148,
-        "SkillName": "血壤",
-        "Category": "绝枪战士",
-        "ActionID": 16164,
-        "Level": 100,
-        "TemplateType": "damage_crit_calc",
-        "Value": "2700",
-        "ColorType": "damage",
-        "Description": "狮心连三连合计暴击伤害值",
-        "Order": 1
-      },
-      {
-        "ID": 149,
-        "SkillName": "血壤",
-        "Category": "绝枪战士",
-        "ActionID": 16164,
-        "Level": 100,
-        "TemplateType": "damage_direct_crit_calc",
-        "Value": "2700",
-        "ColorType": "damage_glow",
-        "Description": "狮心连三连合计直暴伤害值",
-        "Order": 2
-      },
-      {
-        "ID": 95,
-        "SkillName": "圣环",
-        "Category": "骑士",
-        "ActionID": 16458,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "上述为适用“神圣魔法效果提高”伤害值。",
-        "Order": 0
-      },
-      {
-        "ID": 99,
-        "SkillName": "圣环",
-        "Category": "骑士",
-        "ActionID": 16458,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "“神圣魔法效果提高”状态下，目标数大于等于3时，威力大于“圣灵”。",
-        "Order": 0
-      },
-      {
-        "ID": 96,
-        "SkillName": "圣环",
-        "Category": "骑士",
-        "ActionID": 16458,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "100",
-        "ColorType": "damage",
-        "Description": "无“神圣魔法效果提高”伤害值",
-        "Order": 1
-      },
-      {
-        "ID": 97,
-        "SkillName": "圣环",
-        "Category": "骑士",
-        "ActionID": 16458,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "350",
-        "ColorType": "damage",
-        "Description": "“安魂祈祷”状态中伤害值",
-        "Order": 2
-      },
-      {
-        "ID": 98,
-        "SkillName": "圣环",
-        "Category": "骑士",
-        "ActionID": 16458,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "400",
-        "ColorType": "healing",
-        "Description": "治疗量",
-        "Order": 3
-      },
-      {
-        "ID": 165,
-        "SkillName": "混沌旋风",
-        "Category": "战士",
-        "ActionID": 16463,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于4时，威力大于“狂魂”。",
-        "Order": 0
-      },
-      {
-        "ID": 177,
+        "ID": 91,
         "SkillName": "原初的勇猛",
         "Category": "战士",
         "ActionID": 16464,
@@ -1059,7 +387,7 @@
         "Order": 0
       },
       {
-        "ID": 178,
+        "ID": 92,
         "SkillName": "原初的勇猛",
         "Category": "战士",
         "ActionID": 16464,
@@ -1071,7 +399,7 @@
         "Order": 1
       },
       {
-        "ID": 179,
+        "ID": 93,
         "SkillName": "原初的勇猛",
         "Category": "战士",
         "ActionID": 16464,
@@ -1083,7 +411,7 @@
         "Order": 2
       },
       {
-        "ID": 180,
+        "ID": 94,
         "SkillName": "原初的勇猛",
         "Category": "战士",
         "ActionID": 16464,
@@ -1095,7 +423,7 @@
         "Order": 3
       },
       {
-        "ID": 181,
+        "ID": 95,
         "SkillName": "原初的勇猛",
         "Category": "战士",
         "ActionID": 16464,
@@ -1105,78 +433,6 @@
         "ColorType": "hint",
         "Description": "与“原初的血气”冲突。",
         "Order": 4
-      },
-      {
-        "ID": 108,
-        "SkillName": "刚魂",
-        "Category": "暗黑骑士",
-        "ActionID": 16468,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "600",
-        "ColorType": "healing",
-        "Description": "魔法值回复",
-        "Order": 0
-      },
-      {
-        "ID": 109,
-        "SkillName": "刚魂",
-        "Category": "暗黑骑士",
-        "ActionID": 16468,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "20",
-        "ColorType": "buff",
-        "Description": "暗血增加",
-        "Order": 1
-      },
-      {
-        "ID": 125,
-        "SkillName": "暗影波动",
-        "Category": "暗黑骑士",
-        "ActionID": 16469,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于3时，威力大于“暗影锋”。",
-        "Order": 0
-      },
-      {
-        "ID": 116,
-        "SkillName": "暗黑布道",
-        "Category": "暗黑骑士",
-        "ActionID": 16471,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "5% 物理",
-        "ColorType": "shield",
-        "Description": "减伤",
-        "Order": 0
-      },
-      {
-        "ID": 126,
-        "SkillName": "掠影示现",
-        "Category": "暗黑骑士",
-        "ActionID": 16472,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "影子依次向目标释放5个技能。",
-        "Order": 0
-      },
-      {
-        "ID": 127,
-        "SkillName": "掠影示现",
-        "Category": "暗黑骑士",
-        "ActionID": 16472,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "“暗黑”量谱增伤无效，仅基于自身与目标的实时状态栏计算伤害。",
-        "Order": 1
       },
       {
         "ID": 15,
@@ -1203,47 +459,47 @@
         "Order": 0
       },
       {
+        "ID": 25,
+        "SkillName": "天宫图",
+        "Category": "占星术士",
+        "ActionID": 16557,
+        "Level": 100,
+        "TemplateType": "heal_norm_calc",
+        "Value": "400",
+        "ColorType": "healing",
+        "Description": "阳星天宫图治疗量",
+        "Order": 0
+      },
+      {
+        "ID": 26,
+        "SkillName": "天宫图",
+        "Category": "占星术士",
+        "ActionID": 16557,
+        "Level": 100,
+        "TemplateType": "text",
+        "Value": "30 秒",
+        "ColorType": "duration",
+        "Description": "阳星天宫图持续时间",
+        "Order": 1
+      },
+      {
+        "ID": 27,
+        "SkillName": "天宫图",
+        "Category": "占星术士",
+        "ActionID": 16557,
+        "Level": 100,
+        "TemplateType": "text",
+        "Value": "0",
+        "ColorType": "hint",
+        "Description": "释放阳星相位/阳星合相后变为阳星天宫图。",
+        "Order": 2
+      },
+      {
         "ID": 28,
         "SkillName": "天宫图",
         "Category": "占星术士",
         "ActionID": 16557,
         "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "400",
-        "ColorType": "healing",
-        "Description": "阳星天宫图治疗量",
-        "Order": 0
-      },
-      {
-        "ID": 29,
-        "SkillName": "天宫图",
-        "Category": "占星术士",
-        "ActionID": 16557,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "30 秒",
-        "ColorType": "duration",
-        "Description": "阳星天宫图持续时间",
-        "Order": 1
-      },
-      {
-        "ID": 30,
-        "SkillName": "天宫图",
-        "Category": "占星术士",
-        "ActionID": 16557,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "释放阳星相位/阳星合相后变为阳星天宫图。",
-        "Order": 2
-      },
-      {
-        "ID": 31,
-        "SkillName": "天宫图",
-        "Category": "占星术士",
-        "ActionID": 16557,
-        "Level": 100,
         "TemplateType": "text",
         "Value": "0",
         "ColorType": "hint",
@@ -1251,7 +507,7 @@
         "Order": 3
       },
       {
-        "ID": 81,
+        "ID": 57,
         "SkillName": "天宫图",
         "Category": "占星术士",
         "ActionID": 16558,
@@ -1263,7 +519,7 @@
         "Order": 0
       },
       {
-        "ID": 82,
+        "ID": 58,
         "SkillName": "天宫图",
         "Category": "占星术士",
         "ActionID": 16558,
@@ -1275,7 +531,7 @@
         "Order": 1
       },
       {
-        "ID": 83,
+        "ID": 59,
         "SkillName": "天宫图",
         "Category": "占星术士",
         "ActionID": 16558,
@@ -1287,7 +543,7 @@
         "Order": 2
       },
       {
-        "ID": 84,
+        "ID": 60,
         "SkillName": "天宫图",
         "Category": "占星术士",
         "ActionID": 16558,
@@ -1299,55 +555,7 @@
         "Order": 3
       },
       {
-        "ID": 71,
-        "SkillName": "毁坏",
-        "Category": "学者",
-        "ActionID": 17870,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "多么完美的技能！",
-        "Order": 0
-      },
-      {
-        "ID": 72,
-        "SkillName": "毁坏",
-        "Category": "学者",
-        "ActionID": 17870,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "如同技能名一般，「毁天灭地」的攻击手段！",
-        "Order": 1
-      },
-      {
-        "ID": 73,
-        "SkillName": "毁坏",
-        "Category": "学者",
-        "ActionID": 17870,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "拥有极强的止损能力，是无使用限制的全瞬发技能！",
-        "Order": 2
-      },
-      {
-        "ID": 74,
-        "SkillName": "毁坏",
-        "Category": "学者",
-        "ActionID": 17870,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "学者在，毁二在！毁二永远不加强！",
-        "Order": 3
-      },
-      {
-        "ID": 51,
+        "ID": 42,
         "SkillName": "心关",
         "Category": "贤者",
         "ActionID": 24285,
@@ -1359,31 +567,7 @@
         "Order": 0
       },
       {
-        "ID": 46,
-        "SkillName": "均衡诊断",
-        "Category": "贤者",
-        "ActionID": 24291,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "450",
-        "ColorType": "healing",
-        "Description": "活化状态下治疗量",
-        "Order": 0
-      },
-      {
-        "ID": 47,
-        "SkillName": "均衡诊断",
-        "Category": "贤者",
-        "ActionID": 24291,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "810",
-        "ColorType": "shield",
-        "Description": "活化状态下盾值",
-        "Order": 1
-      },
-      {
-        "ID": 48,
+        "ID": 39,
         "SkillName": "均衡诊断",
         "Category": "贤者",
         "ActionID": 24291,
@@ -1395,7 +579,7 @@
         "Order": 2
       },
       {
-        "ID": 49,
+        "ID": 40,
         "SkillName": "均衡诊断",
         "Category": "贤者",
         "ActionID": 24291,
@@ -1407,7 +591,7 @@
         "Order": 3
       },
       {
-        "ID": 50,
+        "ID": 41,
         "SkillName": "均衡诊断",
         "Category": "贤者",
         "ActionID": 24291,
@@ -1419,7 +603,7 @@
         "Order": 4
       },
       {
-        "ID": 55,
+        "ID": 43,
         "SkillName": "活化",
         "Category": "贤者",
         "ActionID": 24300,
@@ -1431,7 +615,7 @@
         "Order": 0
       },
       {
-        "ID": 56,
+        "ID": 44,
         "SkillName": "活化",
         "Category": "贤者",
         "ActionID": 24300,
@@ -1443,19 +627,19 @@
         "Order": 1
       },
       {
-        "ID": 57,
+        "ID": 45,
         "SkillName": "消化",
         "Category": "贤者",
         "ActionID": 24301,
         "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "上述为移除“均衡预后”(群盾)治疗量。",
+        "TemplateType": "heal_norm_calc",
+        "Value": "350",
+        "ColorType": "healing",
+        "Description": "移除“均衡预后”(群盾)治疗量",
         "Order": 0
       },
       {
-        "ID": 58,
+        "ID": 46,
         "SkillName": "消化",
         "Category": "贤者",
         "ActionID": 24301,
@@ -1467,7 +651,7 @@
         "Order": 1
       },
       {
-        "ID": 59,
+        "ID": 47,
         "SkillName": "白牛清汁",
         "Category": "贤者",
         "ActionID": 24303,
@@ -1479,7 +663,7 @@
         "Order": 0
       },
       {
-        "ID": 60,
+        "ID": 48,
         "SkillName": "输血",
         "Category": "贤者",
         "ActionID": 24305,
@@ -1491,7 +675,7 @@
         "Order": 0
       },
       {
-        "ID": 61,
+        "ID": 49,
         "SkillName": "输血",
         "Category": "贤者",
         "ActionID": 24305,
@@ -1503,7 +687,7 @@
         "Order": 1
       },
       {
-        "ID": 62,
+        "ID": 50,
         "SkillName": "输血",
         "Category": "贤者",
         "ActionID": 24305,
@@ -1515,7 +699,7 @@
         "Order": 2
       },
       {
-        "ID": 66,
+        "ID": 54,
         "SkillName": "整体论",
         "Category": "贤者",
         "ActionID": 24310,
@@ -1527,7 +711,7 @@
         "Order": 0
       },
       {
-        "ID": 63,
+        "ID": 51,
         "SkillName": "泛输血",
         "Category": "贤者",
         "ActionID": 24311,
@@ -1539,7 +723,7 @@
         "Order": 0
       },
       {
-        "ID": 64,
+        "ID": 52,
         "SkillName": "泛输血",
         "Category": "贤者",
         "ActionID": 24311,
@@ -1551,7 +735,7 @@
         "Order": 1
       },
       {
-        "ID": 65,
+        "ID": 53,
         "SkillName": "泛输血",
         "Category": "贤者",
         "ActionID": 24311,
@@ -1563,55 +747,7 @@
         "Order": 2
       },
       {
-        "ID": 78,
-        "SkillName": "失衡II",
-        "Category": "贤者",
-        "ActionID": 24315,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于3时，威力大于“注药III”。",
-        "Order": 0
-      },
-      {
-        "ID": 52,
-        "SkillName": "魂灵风息",
-        "Category": "贤者",
-        "ActionID": 24318,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "900",
-        "ColorType": "healing",
-        "Description": "活化状态下治疗量",
-        "Order": 0
-      },
-      {
-        "ID": 53,
-        "SkillName": "魂灵风息",
-        "Category": "贤者",
-        "ActionID": 24318,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "380",
-        "ColorType": "damage",
-        "Description": "伤害值",
-        "Order": 1
-      },
-      {
-        "ID": 54,
-        "SkillName": "魂灵风息",
-        "Category": "贤者",
-        "ActionID": 24318,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "40%",
-        "ColorType": "damage",
-        "Description": "多目标伤害衰减",
-        "Order": 2
-      },
-      {
-        "ID": 100,
+        "ID": 64,
         "SkillName": "圣盾阵",
         "Category": "骑士",
         "ActionID": 25746,
@@ -1623,7 +759,7 @@
         "Order": 0
       },
       {
-        "ID": 101,
+        "ID": 65,
         "SkillName": "圣盾阵",
         "Category": "骑士",
         "ActionID": 25746,
@@ -1635,7 +771,7 @@
         "Order": 1
       },
       {
-        "ID": 172,
+        "ID": 86,
         "SkillName": "原初的血气",
         "Category": "战士",
         "ActionID": 25751,
@@ -1647,7 +783,7 @@
         "Order": 0
       },
       {
-        "ID": 173,
+        "ID": 87,
         "SkillName": "原初的血气",
         "Category": "战士",
         "ActionID": 25751,
@@ -1659,7 +795,7 @@
         "Order": 1
       },
       {
-        "ID": 174,
+        "ID": 88,
         "SkillName": "原初的血气",
         "Category": "战士",
         "ActionID": 25751,
@@ -1671,7 +807,7 @@
         "Order": 2
       },
       {
-        "ID": 175,
+        "ID": 89,
         "SkillName": "原初的血气",
         "Category": "战士",
         "ActionID": 25751,
@@ -1683,7 +819,7 @@
         "Order": 3
       },
       {
-        "ID": 176,
+        "ID": 90,
         "SkillName": "原初的血气",
         "Category": "战士",
         "ActionID": 25751,
@@ -1695,19 +831,7 @@
         "Order": 4
       },
       {
-        "ID": 171,
-        "SkillName": "群山隆起",
-        "Category": "战士",
-        "ActionID": 25752,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于3时，威力大于“动乱”。",
-        "Order": 0
-      },
-      {
-        "ID": 154,
+        "ID": 76,
         "SkillName": "刚玉之心",
         "Category": "绝枪战士",
         "ActionID": 25758,
@@ -1719,7 +843,7 @@
         "Order": 0
       },
       {
-        "ID": 155,
+        "ID": 77,
         "SkillName": "刚玉之心",
         "Category": "绝枪战士",
         "ActionID": 25758,
@@ -1731,7 +855,7 @@
         "Order": 1
       },
       {
-        "ID": 156,
+        "ID": 78,
         "SkillName": "刚玉之心",
         "Category": "绝枪战士",
         "ActionID": 25758,
@@ -1743,7 +867,7 @@
         "Order": 2
       },
       {
-        "ID": 157,
+        "ID": 79,
         "SkillName": "刚玉之心",
         "Category": "绝枪战士",
         "ActionID": 25758,
@@ -1755,7 +879,7 @@
         "Order": 3
       },
       {
-        "ID": 158,
+        "ID": 80,
         "SkillName": "刚玉之心",
         "Category": "绝枪战士",
         "ActionID": 25758,
@@ -1767,31 +891,7 @@
         "Order": 4
       },
       {
-        "ID": 69,
-        "SkillName": "豪圣",
-        "Category": "白魔法师",
-        "ActionID": 25860,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "4/2/1/0 秒",
-        "ColorType": "duration",
-        "Description": "眩晕时间",
-        "Order": 0
-      },
-      {
-        "ID": 70,
-        "SkillName": "豪圣",
-        "Category": "白魔法师",
-        "ActionID": 25860,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于3时，威力大于“闪灼”。",
-        "Order": 1
-      },
-      {
-        "ID": 7,
+        "ID": 6,
         "SkillName": "礼仪之铃",
         "Category": "白魔法师",
         "ActionID": 25862,
@@ -1803,7 +903,7 @@
         "Order": 0
       },
       {
-        "ID": 8,
+        "ID": 7,
         "SkillName": "礼仪之铃",
         "Category": "白魔法师",
         "ActionID": 25862,
@@ -1813,18 +913,6 @@
         "ColorType": "hint",
         "Description": "白魔法师主体每受到一次伤害，触发一次治疗。",
         "Order": 1
-      },
-      {
-        "ID": 75,
-        "SkillName": "裂阵法",
-        "Category": "学者",
-        "ActionID": 25866,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于2时，威力大于“极炎法”。",
-        "Order": 0
       },
       {
         "ID": 16,
@@ -1839,19 +927,7 @@
         "Order": 0
       },
       {
-        "ID": 77,
-        "SkillName": "中重力",
-        "Category": "占星术士",
-        "ActionID": 25872,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于2时，威力大于“落陷凶星”。",
-        "Order": 0
-      },
-      {
-        "ID": 32,
+        "ID": 29,
         "SkillName": "擢升",
         "Category": "占星术士",
         "ActionID": 25873,
@@ -1863,31 +939,7 @@
         "Order": 0
       },
       {
-        "ID": 35,
-        "SkillName": "大宇宙",
-        "Category": "占星术士",
-        "ActionID": 25874,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "270",
-        "ColorType": "damage",
-        "Description": "伤害值",
-        "Order": 0
-      },
-      {
-        "ID": 36,
-        "SkillName": "大宇宙",
-        "Category": "占星术士",
-        "ActionID": 25874,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "40%",
-        "ColorType": "damage",
-        "Description": "多目标伤害衰减",
-        "Order": 1
-      },
-      {
-        "ID": 37,
+        "ID": 32,
         "SkillName": "大宇宙",
         "Category": "占星术士",
         "ActionID": 25874,
@@ -1899,7 +951,7 @@
         "Order": 2
       },
       {
-        "ID": 38,
+        "ID": 33,
         "SkillName": "大宇宙",
         "Category": "占星术士",
         "ActionID": 25874,
@@ -1911,7 +963,7 @@
         "Order": 3
       },
       {
-        "ID": 33,
+        "ID": 30,
         "SkillName": "小宇宙",
         "Category": "占星术士",
         "ActionID": 25875,
@@ -1923,7 +975,7 @@
         "Order": 0
       },
       {
-        "ID": 34,
+        "ID": 31,
         "SkillName": "小宇宙",
         "Category": "占星术士",
         "ActionID": 25875,
@@ -1935,7 +987,7 @@
         "Order": 1
       },
       {
-        "ID": 67,
+        "ID": 55,
         "SkillName": "智慧之爱",
         "Category": "贤者",
         "ActionID": 27035,
@@ -1947,7 +999,7 @@
         "Order": 0
       },
       {
-        "ID": 68,
+        "ID": 56,
         "SkillName": "智慧之爱",
         "Category": "贤者",
         "ActionID": 27035,
@@ -1959,43 +1011,7 @@
         "Order": 1
       },
       {
-        "ID": 160,
-        "SkillName": "绝对统治",
-        "Category": "骑士",
-        "ActionID": 36921,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "4640",
-        "ColorType": "damage",
-        "Description": "悔罪五连合计伤害值",
-        "Order": 0
-      },
-      {
-        "ID": 161,
-        "SkillName": "绝对统治",
-        "Category": "骑士",
-        "ActionID": 36921,
-        "Level": 100,
-        "TemplateType": "damage_crit_calc",
-        "Value": "4640",
-        "ColorType": "damage",
-        "Description": "悔罪五连合计暴击伤害值",
-        "Order": 1
-      },
-      {
-        "ID": 162,
-        "SkillName": "绝对统治",
-        "Category": "骑士",
-        "ActionID": 36921,
-        "Level": 100,
-        "TemplateType": "damage_direct_crit_calc",
-        "Value": "4640",
-        "ColorType": "damage_glow",
-        "Description": "悔罪五连合计直暴伤害值",
-        "Order": 2
-      },
-      {
-        "ID": 187,
+        "ID": 96,
         "SkillName": "戮罪",
         "Category": "战士",
         "ActionID": 36923,
@@ -2007,7 +1023,7 @@
         "Order": 0
       },
       {
-        "ID": 188,
+        "ID": 97,
         "SkillName": "戮罪",
         "Category": "战士",
         "ActionID": 36923,
@@ -2019,19 +1035,7 @@
         "Order": 1
       },
       {
-        "ID": 189,
-        "SkillName": "戮罪",
-        "Category": "战士",
-        "ActionID": 36923,
-        "Level": 100,
-        "TemplateType": "damage_norm_calc",
-        "Value": "55",
-        "ColorType": "damage",
-        "Description": "反击伤害",
-        "Order": 2
-      },
-      {
-        "ID": 128,
+        "ID": 70,
         "SkillName": "暗影卫",
         "Category": "暗黑骑士",
         "ActionID": 36927,
@@ -2043,7 +1047,7 @@
         "Order": 0
       },
       {
-        "ID": 129,
+        "ID": 71,
         "SkillName": "暗影卫",
         "Category": "暗黑骑士",
         "ActionID": 36927,
@@ -2055,67 +1059,7 @@
         "Order": 1
       },
       {
-        "ID": 130,
-        "SkillName": "血红乱",
-        "Category": "暗黑骑士",
-        "ActionID": 36928,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "200",
-        "ColorType": "healing",
-        "Description": "魔法值回复",
-        "Order": 0
-      },
-      {
-        "ID": 131,
-        "SkillName": "报应",
-        "Category": "暗黑骑士",
-        "ActionID": 36929,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "200",
-        "ColorType": "healing",
-        "Description": "魔法值回复",
-        "Order": 0
-      },
-      {
-        "ID": 132,
-        "SkillName": "戮山",
-        "Category": "暗黑骑士",
-        "ActionID": 36930,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "200",
-        "ColorType": "healing",
-        "Description": "魔法值回复",
-        "Order": 0
-      },
-      {
-        "ID": 124,
-        "SkillName": "刺穿",
-        "Category": "暗黑骑士",
-        "ActionID": 36931,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "200",
-        "ColorType": "healing",
-        "Description": "魔法值回复",
-        "Order": 0
-      },
-      {
-        "ID": 123,
-        "SkillName": "刺穿",
-        "Category": "暗黑骑士",
-        "ActionID": 36931,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于3时，威力大于“血红乱三连”。",
-        "Order": 1
-      },
-      {
-        "ID": 159,
+        "ID": 81,
         "SkillName": "大星云",
         "Category": "绝枪战士",
         "ActionID": 36935,
@@ -2127,7 +1071,7 @@
         "Order": 0
       },
       {
-        "ID": 9,
+        "ID": 8,
         "SkillName": "神爱抚",
         "Category": "白魔法师",
         "ActionID": 37011,
@@ -2139,7 +1083,7 @@
         "Order": 0
       },
       {
-        "ID": 10,
+        "ID": 9,
         "SkillName": "意气轩昂之策",
         "Category": "学者",
         "ActionID": 37013,
@@ -2151,7 +1095,7 @@
         "Order": 0
       },
       {
-        "ID": 11,
+        "ID": 10,
         "SkillName": "意气轩昂之策",
         "Category": "学者",
         "ActionID": 37013,
@@ -2187,7 +1131,7 @@
         "Order": 0
       },
       {
-        "ID": 39,
+        "ID": 34,
         "SkillName": "阳星合相",
         "Category": "占星术士",
         "ActionID": 37030,
@@ -2199,7 +1143,7 @@
         "Order": 0
       },
       {
-        "ID": 40,
+        "ID": 35,
         "SkillName": "阳星合相",
         "Category": "占星术士",
         "ActionID": 37030,
@@ -2211,55 +1155,7 @@
         "Order": 1
       },
       {
-        "ID": 79,
-        "SkillName": "均衡失衡II",
-        "Category": "贤者",
-        "ActionID": 37032,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "目标数大于等于3时，威力大于“均衡注药III”。",
-        "Order": 0
-      },
-      {
-        "ID": 80,
-        "SkillName": "均衡失衡II",
-        "Category": "贤者",
-        "ActionID": 37032,
-        "Level": 100,
-        "TemplateType": "text",
-        "Value": "0",
-        "ColorType": "hint",
-        "Description": "无法与均衡注药III(单体DOT)效果共存。",
-        "Order": 1
-      },
-      {
-        "ID": 43,
-        "SkillName": "均衡预后II",
-        "Category": "贤者",
-        "ActionID": 37034,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "100",
-        "ColorType": "healing",
-        "Description": "活化状态下治疗量",
-        "Order": 0
-      },
-      {
-        "ID": 44,
-        "SkillName": "均衡预后II",
-        "Category": "贤者",
-        "ActionID": 37034,
-        "Level": 100,
-        "TemplateType": "heal_norm_calc",
-        "Value": "360",
-        "ColorType": "shield",
-        "Description": "活化状态下盾值",
-        "Order": 1
-      },
-      {
-        "ID": 45,
+        "ID": 38,
         "SkillName": "均衡预后II",
         "Category": "贤者",
         "ActionID": 37034,
